@@ -1,12 +1,11 @@
 # JourneySentinel
 임베디드 IoT 기술을 활용한 해외여행 도난 범죄 방지 장치
 
-![(동국대 이지랩 메이커톤)사업계획서 pdf-1-1](https://github.com/user-attachments/assets/bb3b116d-7cbc-41f7-a5e0-26ec91bcf908)
-![(동국대 이지랩 메이커톤)사업계획서 pdf-2-2](https://github.com/user-attachments/assets/94ded7d2-e4e7-4b89-a9db-76f3e28bc3d5)
-![(동국대 이지랩 메이커톤)사업계획서 pdf-3-3](https://github.com/user-attachments/assets/46eba92a-8072-4aa7-8d91-41d60c692134)
-![(동국대 이지랩 메이커톤)사업계획서 pdf-4-4](https://github.com/user-attachments/assets/b07d1316-a43a-4170-8cf5-48f8e946353a)
-![(동국대 이지랩 메이커톤)사업계획서 pdf-5-5](https://github.com/user-attachments/assets/d33a4053-c6b7-4fef-a5fb-15dd3ce0a2b4)
-![(동국대 이지랩 메이커톤)사업계획서 pdf-6-6](https://github.com/user-attachments/assets/6529abcc-692c-4029-a2a2-b7d2bff9ecd2)
-
-![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-0](https://github.com/user-attachments/assets/2122c91f-72ba-449d-aa44-93d0e28e81a4)
-![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-1](https://github.com/user-attachments/assets/081f6940-420b-4885-85af-8ca424dd9d5f)
+![(동국대 이지랩 메이커톤)사업계획서 pdf-1-1](https://github.com/user-attachments/assets/c4bb2627-66cd-40f1-be06-32c2a1af3c9a)
+![(동국대 이지랩 메이커톤)사업계획서 pdf-2-2](https://github.com/user-attachments/assets/94f61d45-d51d-45a3-9745-458ea40c037d)
+![(동국대 이지랩 메이커톤)사업계획서 pdf-3-3](https://github.com/user-attachments/assets/1e9ce274-111a-4983-8272-7cbb332447ee)
+![(동국대 이지랩 메이커톤)사업계획서 pdf-4-4](https://github.com/user-attachments/assets/5c31435e-6a98-4ef0-a306-e75089b08555)
+![(동국대 이지랩 메이커톤)사업계획서 pdf-5-5](https://github.com/user-attachments/assets/f030ee32-fd22-4723-9522-506237554089)
+![(동국대 이지랩 메이커톤)사업계획서 pdf-6-6](https://github.com/user-attachments/assets/2aa5f6cd-9c3e-407b-9ab6-ea438563e9aa)
+![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-0](https://github.com/user-attachments/assets/147eadcf-31d9-44b7-8a7b-f6757ae1e678)
+![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-1](https://github.com/user-attachments/assets/c1719a80-59df-46b2-b64e-7b22eb41cbcb)
