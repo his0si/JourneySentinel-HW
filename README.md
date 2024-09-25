@@ -1,4 +1,4 @@
-# journeysentinel-HW
+# JourneySentinel
 임베디드 IoT 기술을 활용한 해외여행 도난 범죄 방지 장치
 
 ![(동국대 이지랩 메이커톤)사업계획서 pdf-1-1](https://github.com/user-attachments/assets/bb3b116d-7cbc-41f7-a5e0-26ec91bcf908)
@@ -7,3 +7,6 @@
 ![(동국대 이지랩 메이커톤)사업계획서 pdf-4-4](https://github.com/user-attachments/assets/b07d1316-a43a-4170-8cf5-48f8e946353a)
 ![(동국대 이지랩 메이커톤)사업계획서 pdf-5-5](https://github.com/user-attachments/assets/d33a4053-c6b7-4fef-a5fb-15dd3ce0a2b4)
 ![(동국대 이지랩 메이커톤)사업계획서 pdf-6-6](https://github.com/user-attachments/assets/6529abcc-692c-4029-a2a2-b7d2bff9ecd2)
+
+![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-0](https://github.com/user-attachments/assets/2122c91f-72ba-449d-aa44-93d0e28e81a4)
+![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-1](https://github.com/user-attachments/assets/081f6940-420b-4885-85af-8ca424dd9d5f)
