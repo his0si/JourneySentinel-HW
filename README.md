@@ -3,8 +3,11 @@
 
 임베디드 IoT 기술을 활용한 해외여행 도난 범죄 방지 장치
 
+![KakaoTalk_20241121_061705668](https://github.com/user-attachments/assets/8a5fedee-9116-4711-b8b8-d319d67f4304)
+
 ![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-0](https://github.com/user-attachments/assets/147eadcf-31d9-44b7-8a7b-f6757ae1e678)
 ![p1i8kn0s5ftoh1a1b13hjs5p1ikd4-1](https://github.com/user-attachments/assets/c1719a80-59df-46b2-b64e-7b22eb41cbcb)
+
 
 슬레이브 최종본
 ![슬레이브](https://github.com/user-attachments/assets/1706094a-2f11-4900-92e1-7f444e1d9e92)
